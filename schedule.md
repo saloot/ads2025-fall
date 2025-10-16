@@ -15,19 +15,28 @@ Here's the schedule for the course.
 |------|------|-----|-----|
 | 1 | 29 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1hlFo3JE1qVbxO7Pea0CG8dMxjNcIWIzLtmRSURfoYSU/edit?usp=sharing)	| - |
 | 2 | 4 Aban | - | [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1Y8SpqDbunGuCnOP8inzmlfoGcfAsHC_e?usp=sharing)  |
-| 3 | 13 - 15 Mehr | Data Visualization | Visualization Notebook |
-| 2 | 20 - 22 Mehr | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
-| 3 | 27 - 29 Mehr | Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
-| 4 | 4 - 6 Aban | Regression Methods | Regression Methods Notebook |
-| 5 | 11 - 13 Aban | Classification Methods | Classification Methods Notebook |
-| 6 | 18 - 20 Aban | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
-| 7 | 25 - 27 Aban | Neural Networks | Neural Networks Notebook |
-| 8 | 2 - 4 Azar | Deep Learning | Deep Learning Notebook  |
-| 10 | 9 - 11 Azar | Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
-| 11 | 16 Azar | Guest Speakers from Inudstry | - |
-| 12 | 18 - 23 Azar | Autoencoders, Generative Adversarial Networks (GANs) and Model Explainability | Autoencoders, GANs and Model Explainability Notebook |
-| 13 | 25 - 30 Azar | Imbalanced Classes, Pipelines and Real World Challenges | Pipelines, Imablanced Data and AutoML Notebook |
-| 14 | 30 - 2 Dey | Final Projects Presentation | Final Projects Presentation |
-| 15 | 9 Bahman | Final Exam
+| 2 | 6 Aban | 	Data Cleaning and Preprocessing | 	EDA/Cleaning in Action |
+| 3 | 11 Aban | Data Visualization | 	Visualization Notebook + Web Scraping Notebook |
+| 3 | 13 Aban | 	Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
+| 4 | 18 Aban | 	Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
+| 4 | 20 Aban | 	Regression Methods | Regression Methods Notebook |
+| 5 | 25 Aban | 	Classification Methods | 	Classification Methods Notebook |
+| 5 | 27 Aban | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
+| 6 | 2 Azar | Project Session | -  |
+| 6 | 4 Azar | 	Neural Networks | Neural Networks Notebook |
+| 7 | 9 Azar | 	Deep Learning | Deep Learning Notebook |
+| 7 | 11 Azar | 	Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
+| 8 | 16 Azar | Project Session | - |
+| 8 | 18 Azar | 	Generative AI | GenAI Notebook |
+| 9 | 23 Azar | RAG & Agents | - |
+| 9 | 25 Azar | - | RAG & Agents Notebook |
+| 10 | 30 Azar | Project Session | - |
+| 10 | 2 Dey | Model Explainability and Imbalanced Data Problem	 | Explainable AI and Imbalanced Data Problem |
+| 11 | 7 Dey | Software Skills and Notes for Production | - |
+| 11 | 9 Dey | - | Software Skills Notebook |
+| 12 | 14 Dey | Practical Stuff | Practical Stuff Notebook |
+| 12 | 16 Dey | Guest Speakers from Inudstry | - |
+| 13 | 21 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
+| 16 | 13 Bahman | Final Exam |
 
 
