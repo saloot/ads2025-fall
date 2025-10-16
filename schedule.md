@@ -8,8 +8,8 @@ show_sidebar: false
 # Course Schedule
 Here's the schedule for the course. 
 * The deadlines for handing in homeworks will be announced each session.
-* The deadline for the **first progress report** of the final project is 30 Aban, 1404
-* The deadline for the **second progress report** of the final project is 30 Azar, 1404
+* The deadline for the **progress reports** of the final project is **before each Project Session**.
+* The deadline for the **Final progress and notebook report** of the final project is 20 Dey, 1404
 
 | Week 	| Date	| Lecture | Lab Session |
 |------|------|-----|-----|
