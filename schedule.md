@@ -13,8 +13,8 @@ Here's the schedule for the course.
 
 | Week 	| Date	| Lecture | Lab Session |
 |------|------|-----|-----|
-| 1 | 29 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1hlFo3JE1qVbxO7Pea0CG8dMxjNcIWIzLtmRSURfoYSU/edit?usp=sharing)	| - |
-| 2 | 4 Aban | - | [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1Y8SpqDbunGuCnOP8inzmlfoGcfAsHC_e?usp=sharing)  |
+| 1 | 29 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1haW-CdhNeRX4h1Xr3S-gLfNiLS3byLTF7zfqhFtjLUI/edit?usp=sharing)	| - |
+| 2 | 4 Aban | - | [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1D9VfjFzm3B1yo92MJJrHn3OTNFzM0L33#scrollTo=20a-p5mvPouC)  |
 | 2 | 6 Aban | 	Data Cleaning and Preprocessing | 	EDA/Cleaning in Action |
 | 3 | 11 Aban | Data Visualization | 	Visualization Notebook + Web Scraping Notebook |
 | 3 | 13 Aban | 	Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
