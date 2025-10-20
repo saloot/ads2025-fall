@@ -1,6 +1,6 @@
 ---
 title: Applied Data Science
-subtitle: Khatam University, Fall 2025
+subtitle: Teias, Khatam University, Fall 2025
 layout: page 
 show_sidebar: false
 ---
@@ -41,18 +41,18 @@ Overall, our main target is that we can conduct the whole workflow (e.g. from ga
 There is no required textbook for this course. But the students are expected to go over the material that is introduced along the way during the course. 
 
 ## Grading 
-* Homeworks: 40%
+* Homeworks: 30%
      * Homeworks usually come with bonuses. These bonuses only apply to homeworks!
-* Final Project: 40%
+* Final Project: 50%
     * 3 progress reports during the semester: 30 Points
     * Final progress and notebook report: 40 Points
     * Final presentation on the last day of class: 30 Points
         * Of the 30 points of the presentation, 15 comes from other groups!
 * Final Exam: 20%
 
-* Bonus of upto 6% for participation in contests! More on that later on
-     * Upto 3% points for participating in a Kaggle contest.
-     * Upto 3% points for a classwide challenge on a common dataset
+* Bonus of upto 8% for participation in contests! More on that later on
+     * Upto 4% points for participating in a Kaggle contest.
+     * Upto 4% points for a classwide challenge on a common dataset
 
 # Logistics
 * The course is divided into a lecture and a lab session. 
@@ -72,16 +72,21 @@ There is no required textbook for this course. But the students are expected to 
 ### Teaching Assistants
 <img src="/ADS2023/assets/images/Armin_tourajmehr.jpg" style="border-radius:50%;height:160px;" width="auto">
 
-[Armin Tourajmehr](https://www.linkedin.com/in/armin-tourajmehr-a5ab36180/)
+[Amin Rafiei](https://www.linkedin.com/in/rafiei-amin/)
 
 <img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
-[Erfan Esterabi](https://www.linkedin.com/in/erfan-esterabi-b47740187/)
+[Peyman Naseri](https://www.linkedin.com/in/peyman886/)
+
+<img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
+
+[Hossein Kargar](https://www.linkedin.com/in/hossein-kargar-1142371b5/)
 
 
 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Armin Tourajmehr](mailto:armin.tourajmehr@gmail.com)
-[Erfan Esterabi](mailto:erfan_esterabi@hotmail.com)
+[Amin Rafiei](mailto:rafiei.amin.ir@gmail.com)
+[Peyman Naseri](mailto:@peyman.75.naserigmail.com)
+[Hossein Kargar](mailto:hkargar17@gmail.com)
