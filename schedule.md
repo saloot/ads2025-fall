@@ -17,7 +17,7 @@ Here's the schedule for the course.
 | 2 | 4 Aban | - | [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1D9VfjFzm3B1yo92MJJrHn3OTNFzM0L33#scrollTo=20a-p5mvPouC)  |
 | 2 | 6 Aban | 	Data Cleaning and Preprocessing | 	EDA/Cleaning in Action |
 | 3 | 11 Aban | Data Visualization | 	Visualization Notebook + Web Scraping Notebook |
-| 3 | 13 Aban | 	Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
+| 3 | 13 Aban | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
 | 4 | 18 Aban | 	Different Problem Types and Accuracy Measures | Accuracy Measures and Scikit-learn |
 | 4 | 20 Aban | 	Regression Methods | Regression Methods Notebook |
 | 5 | 25 Aban | 	Classification Methods | 	Classification Methods Notebook |
