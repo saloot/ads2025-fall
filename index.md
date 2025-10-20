@@ -70,15 +70,15 @@ There is no required textbook for this course. But the students are expected to 
 
 
 ### Teaching Assistants
-<img src="/ADS2023/assets/images/Armin_tourajmehr.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/amin-rafiei.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amin Rafiei](https://www.linkedin.com/in/rafiei-amin/)
 
-<img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/peyman-naseri.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
 [Peyman Naseri](https://www.linkedin.com/in/peyman886/)
 
-<img src="/ADS2023/assets/images/ErfanEsterabi.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2023/assets/images/hossein-kargar.jpeg" style="border-radius:50%;height:160px;" width="auto">
 
 [Hossein Kargar](https://www.linkedin.com/in/hossein-kargar-1142371b5/)
 
