@@ -70,7 +70,7 @@ There is no required textbook for this course. But the students are expected to 
 
 
 ### Teaching Assistants
-<img src="/ads2025-fall/assets/images/amin-rafiei.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ads2025-fall/assets/images/Amin-Rafiei.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amin Rafiei](https://www.linkedin.com/in/rafiei-amin/)
 
