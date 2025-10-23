@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 
 # About This Course
-<img src="/ADS2023/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="/ads2025-fall/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 
 
 In this course, our aim is to get STARTED on using data science in practice, either for academic projects or problems in the industry which we might face later on in our careers. 
@@ -64,21 +64,21 @@ There is no required textbook for this course. But the students are expected to 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ADS2023/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ads2025-fall/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
 
 ### Teaching Assistants
-<img src="/ADS2023/assets/images/amin-rafiei.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ads2025-fall/assets/images/amin-rafiei.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amin Rafiei](https://www.linkedin.com/in/rafiei-amin/)
 
-<img src="/ADS2023/assets/images/peyman-naseri.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ads2025-fall/assets/images/peyman-naseri.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Peyman Naseri](https://www.linkedin.com/in/peyman886/)
 
-<img src="/ADS2023/assets/images/hossein-kargar.jpeg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ads2025-fall/assets/images/hossein-kargar.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Hossein Kargar](https://www.linkedin.com/in/hossein-kargar-1142371b5/)
 
