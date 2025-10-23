@@ -5,6 +5,11 @@ relative_links:
   enabled: true
   collections: true
 
+# Custom Bulma variables
+sass:
+  style: compressed
+  sass_dir: _sass
+
 include:
   - index.md
   - projects.md
