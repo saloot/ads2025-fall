@@ -1,14 +1,9 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
-
-# Custom Bulma variables
-sass:
-  style: compressed
-  sass_dir: _sass
 
 include:
   - index.md
