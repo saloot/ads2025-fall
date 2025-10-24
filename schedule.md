@@ -22,16 +22,16 @@ Here's the schedule for the course.
 | 4 | 20 Aban | 	Classification Methods | 	Classification Methods Notebook |
 | 5 | 25 Aban | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
 | 5 | 27 Aban | 	Neural Networks | Neural Networks Notebook |
-| 6 | 2 Azar | Project Session | -  |
+| 6 | 2 Azar | Project Session | -  | 404 :) |
 | 6 | 4 Azar | 	Deep Learning | Deep Learning Notebook |
 | 7 | 9 Azar | 	Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
 | 7 | 11 Azar | 	Generative AI | - |
 | 8 | 16 Azar | - | GenAI Notebook |
-| 8 | 18 Azar | Project Session | - |
+| 8 | 18 Azar | Project Session | - | 404 :) |
 | 9 | 23 Azar | RAG & Agents | - |
 | 9 | 25 Azar | - | RAG & Agents Notebook |
 | 10 | 30 Azar | Model Explainability and Imbalanced Data Problem	 | Explainable AI and Imbalanced Data Problem |
-| 10 | 2 Dey | Project Session | - |
+| 10 | 2 Dey | Project Session | - | 404 :) |
 | 11 | 7 Dey | Software Skills and Notes for Production | - |
 | 11 | 9 Dey | - | Software Skills Notebook |
 | 12 | 14 Dey | Practical Stuff | Practical Stuff Notebook |
