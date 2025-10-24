@@ -11,9 +11,9 @@ Here's the schedule for the course.
 * The deadline for the **progress reports** of the final project is **before each Project Session**.
 * The deadline for the **Final progress and notebook report** of the final project is 20 Dey, 1404
 
-| Week 	| Date	| Lecture | Lab Session |
-|------|------|-----|-----|
-| 1 | 29 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1haW-CdhNeRX4h1Xr3S-gLfNiLS3byLTF7zfqhFtjLUI/edit?usp=sharing)	| [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1D9VfjFzm3B1yo92MJJrHn3OTNFzM0L33#scrollTo=20a-p5mvPouC) |
+| Week 	| Date	| Lecture | Lab Session | Video |
+|------|------|-----|-----|-----|
+| 1 | 29 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1haW-CdhNeRX4h1Xr3S-gLfNiLS3byLTF7zfqhFtjLUI/edit?usp=sharing)	| [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1D9VfjFzm3B1yo92MJJrHn3OTNFzM0L33#scrollTo=20a-p5mvPouC) | [Lab Session](https://www.aparat.com/v/g73cs7a?playlist=1569063) |
 | 2 | 4 Aban | 	 Data Cleaning and Preprocessing | 	EDA/Cleaning in Action |
 | 2 | 6 Aban | Data Visualization | 	Visualization Notebook + Web Scraping Notebook |
 | 3 | 11 Aban | Feature Engineering and Dimensionality Reduction | Feature Engineering Notebook |
