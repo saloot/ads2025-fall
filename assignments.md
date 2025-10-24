@@ -32,8 +32,10 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 **Generative AI policy**: Use of ChatGPT, Bard or other similar tools are allowed and *encouraged*. However, please try to solve the assignments by yourself first, and then use prompts for ChatGPT/Bard/etc. and compare your results. If interested, you can submit both results :)
 
 # Homeworks and Due Dates
-###Uploading... someday
+### Uploading... someday
+
 {% comment %}
+
 ### Assignment 1: Pandas, Colab and Kaggle
 * 70 Points: Get familiar with Pandas and Jupyter/Colab/Kaggle Notebooks by completing the exercises on [this mini tutorial](https://www.kaggle.com/learn/pandas) on Kaggle (you can use [Lab Session 1's notebook](https://colab.research.google.com/drive/1BoWlL7S1yZkw3q4tKTGG8ZiXXEcMmJws?usp=sharing)) as an additional reference.
     * Once completed, email us the certificate so that we can celeberate together :)
