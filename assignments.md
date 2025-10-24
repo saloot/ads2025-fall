@@ -18,7 +18,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 * You will be graded according to the following criteria:
     * Notebook runs without a problem: 10%
-    * It solves/addresses the problem: 55%
+    * It solves/addresses the problem: 50%
     * It is clear and well-commented: 40% 
         * This last part is crucial and detailed explanations are required for the submitted notebooks
 
