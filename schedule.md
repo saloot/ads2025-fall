@@ -11,7 +11,7 @@ Here's the schedule for the course.
 * The deadline for the **progress reports** of the final project is **before each Project Session**.
 * The deadline for the **Final progress and notebook report** of the final project is 20 Dey, 1404
 
-| Week 	| Date	| Lecture | Colab Notebook | Video |
+| Week 	| Date	| Lecture | Colab Notebook | Lab Session Videos |
 |------|------|-----|-----|-----|
 | 1 | 29 Mehr | [Course Introduction](https://docs.google.com/presentation/d/1haW-CdhNeRX4h1Xr3S-gLfNiLS3byLTF7zfqhFtjLUI/edit?usp=sharing)	| [Introduction to Google Colab and Datasets/Problems for Homework](https://colab.research.google.com/drive/1D9VfjFzm3B1yo92MJJrHn3OTNFzM0L33#scrollTo=20a-p5mvPouC) | [Recording](https://www.aparat.com/v/g73cs7a?playlist=1569063) |
 | 2 | 4 Aban | 	 [Data Cleaning and Preprocessing](https://docs.google.com/presentation/d/1dkZXZrkL_rQIGeY2_HisIkduK6ezIgM53RUod_4KlAI/edit?usp=sharing) | 	[EDA/Cleaning in Action](https://colab.research.google.com/drive/1tgSjMu0var9LQUNG8VymHV47NI7WfDAH?usp=sharing) | [Recording](https://www.aparat.com/v/2JOWb?playlist=1569063)
