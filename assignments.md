@@ -35,6 +35,182 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 ### Uploading... someday
 
+### Assignment 1
+
+The main goal of this homework is to apply what you have learned in lectures and **lab sessions** on a dataset of your choice.
+
+---
+
+### Dataset Selection
+
+* Choose a suitable dataset for your homework.
+* We strongly recommend using **real-world or industrial datasets**.
+* You can find great options on [Kaggle](https://www.kaggle.com/).
+* If possible, try using **Iranian datasets** to better understand real data challenges in local industries.
+
+---
+
+### Submission Instructions
+
+Your results must be presented in a well-documented **Jupyter Notebook (.ipynb)**.
+
+When submitting, please do the following:
+
+1. Create a **GitHub repository** for your homework and upload your notebook(s) there.
+2. You can also share your notebook via **Google Colab** (make sure link access is open).
+3. In your final submission file, include:
+
+   * GitHub link
+   * Colab link
+   * The actual `.ipynb` notebook file
+
+>  You may write your code modularly (by splitting parts into `.py` files and importing them) instead of putting everything inside a single notebook.
+
+After submission, a short in-person session will be scheduled for you to explain and review your assignment.
+
+---
+
+### Collaboration Policy
+
+All homeworks must be done **individually**.
+
+---
+
+### Evaluation Criteria
+
+You will be graded qualitatively based on the following:
+
+* The analysis solves or meaningfully addresses the problem
+* The notebook is clear, readable, and well-commented
+* Explanations are concise, insightful, and easy to follow
+
+---
+
+### Bonus Points
+
+If you go beyond the basic requirements and add something interesting, you can earn extra credit. For example:
+
+* Having a clear and informative `README.md` file in your GitHub repository
+* Creating interactive visualizations (e.g., using Plotly or Bokeh)
+* Including small but meaningful creative touches related to your data or analysis
+
+However, avoid unnecessary long reports, complexity, or flashy additions.
+Focus on producing a notebook that is **executable, readable, and educational**, not overloaded or messy.
+
+---
+
+### Late Submission Policy
+
+A **10% penalty** will be applied for each late day.
+
+---
+
+### Generative AI Policy
+
+The use of tools such as **ChatGPT, Claude, Bard**, or other similar AI assistants is allowed and encouraged — but use them wisely.
+
+* Try to solve each problem yourself first.
+* Then, you may use AI tools to check, improve, or compare your results.
+* Remember: what matters most is **understanding the code you submit**, not who wrote it.
+* Be cautious — large models often *hallucinate* or produce inaccurate results.
+
+The goal is to help you become confident in solving real data science problems independently.
+**Important: It is recommended that you use the course's Ai teaching assistant before the deadline and upload your answers, approximate scores, and suggestions for improving your implementations.**
+---
+
+### Homework Components
+
+#### 1. Exploratory Analysis and Data Cleaning
+
+On the dataset of your choice, perform:
+
+* Comprehensive **Exploratory Data Analysis (EDA)** with meaningful insights
+* **Data cleaning:** handling missing, invalid, or duplicate values
+* **Preprocessing:** converting all features to numerical values
+* **Normalization or standardization**
+* Clear explanations and overall notebook readability
+
+---
+
+#### 2. Data Visualization
+
+Practice different visualization techniques using your dataset.
+Choose appropriate plot types based on your analysis goals.
+
+Include:
+
+* Pie charts and box plots
+* Line charts and multi-line charts
+* Bar charts, grouped and stacked bar charts
+* Scatter plots and bubble charts
+* Charts showing uncertainty (error bars)
+* Interactive charts using **Plotly** or **Bokeh**
+
+Each chart must have:
+
+* Proper title
+* Axis labels and ranges
+* Legends
+
+---
+
+#### 3. Feature Engineering
+
+Using your chosen dataset:
+
+* Create new features based on ratios, binning, mathematical functions, and feature combinations
+* Perform date/time transformations
+* Calculate counts or aggregation statistics
+* Perform **feature selection** using *Mutual Information*
+* Apply **dimensionality reduction** using *PCA*
+* Provide clear explanations and a readable notebook
+
+> Reflective Question (answer in English or Persian):
+> **“When is feature engineering a nice-to-have option, and when is it a must-have?”**
+
+---
+
+#### 4. Web Scraping (Bonus)
+
+Write a simple scraper to extract data for **50 “Samand” cars manufactured after 1385** from [bama.ir](https://bama.ir).
+
+Extract the following fields:
+
+* Price
+* Mileage
+* Color
+* Production year
+* Transmission type (manual/automatic)
+* Description
+
+Submit:
+
+* Your scraper code
+* The collected data in an **Excel (.xlsx)** file
+
+---
+
+### Contact & Questions
+
+If you have any questions about the assignment, feel free to ask in the **Telegram group**.
+
+If you prefer to contact me directly:
+
+* **Telegram:** [t.me/peyman886](https://t.me/peyman886)
+* **Email:** [peyman.75.naseri@gmail.com](mailto:peyman.75.naseri@gmail.com)
+
+You can usually find me in the **LLM Lab** during the afternoons :)
+
+---
+
+### Final Note
+
+Grading will be **qualitative** rather than checklist-based.
+Don’t focus on filling boxes — focus on **understanding, creativity, and problem-solving ability**.
+
+By the end of this course, you should be able to **independently design and execute a complete data science project**.
+
+**Due date:** Wed, Aban 28, 23:59
 {% comment %}
 
 ### Assignment 1: Pandas, Colab and Kaggle
