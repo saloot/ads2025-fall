@@ -33,8 +33,6 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 # Homeworks and Due Dates
 
-### Uploading... someday
-
 ### Assignment 1
 
 The main goal of this homework is to apply what you have learned in lectures and **lab sessions** on a dataset of your choice.
@@ -64,7 +62,7 @@ When submitting, please do the following:
    * Colab link
    * The actual `.ipynb` notebook file
 
->  You may write your code modularly (by splitting parts into `.py` files and importing them) instead of putting everything inside a single notebook.
+4. You may write your code modularly (by splitting parts into `.py` files and importing them) instead of putting everything inside a single notebook.
 
 After submission, a short in-person session will be scheduled for you to explain and review your assignment.
 
@@ -91,11 +89,10 @@ You will be graded qualitatively based on the following:
 If you go beyond the basic requirements and add something interesting, you can earn extra credit. For example:
 
 * Having a clear and informative `README.md` file in your GitHub repository
-* Creating interactive visualizations (e.g., using Plotly or Bokeh)
-* Including small but meaningful creative touches related to your data or analysis
+* Creating **interactive visualizations** (e.g., using Plotly or Bokeh)
+* Including small but meaningful **creative touches** related to your data or analysis
 
-However, avoid unnecessary long reports, complexity, or flashy additions.
-Focus on producing a notebook that is **executable, readable, and educational**, not overloaded or messy.
+However, avoid unnecessary long reports or complexity or flashy additions overdoing things won’t earn extra points. Focus on producing a notebook that is executable, readable, and educational, not overloaded or messy.
 
 ---
 
@@ -115,7 +112,11 @@ The use of tools such as **ChatGPT, Claude, Bard**, or other similar AI assistan
 * Be cautious — large models often *hallucinate* or produce inaccurate results.
 
 The goal is to help you become confident in solving real data science problems independently.
+
 **Important: It is recommended that you use the course's Ai teaching assistant before the deadline and upload your answers, approximate scores, and suggestions for improving your implementations.**
+
+[Ai ADS Assistant(چاکر شما)](https://ai.javabam.ir/?user_id=faeas1fkfe11111ssbaee131e1ae11efs&outlet=ads-ta)
+
 ---
 
 ### Homework Components
@@ -134,23 +135,23 @@ On the dataset of your choice, perform:
 
 #### 2. Data Visualization
 
-Practice different visualization techniques using your dataset.
-Choose appropriate plot types based on your analysis goals.
+* Practice different visualization techniques using your dataset.
+* Choose appropriate plot types based on your analysis goals.
 
 Include:
 
-* Pie charts and box plots
-* Line charts and multi-line charts
-* Bar charts, grouped and stacked bar charts
-* Scatter plots and bubble charts
-* Charts showing uncertainty (error bars)
-* Interactive charts using **Plotly** or **Bokeh**
+   * Pie charts and box plots
+   * Line charts and multi-line charts
+   * Bar charts, grouped and stacked bar charts
+   * Scatter plots and bubble charts
+   * Charts showing uncertainty (error bars)
+   * Interactive charts using **Plotly** or **Bokeh**
 
-Each chart must have:
+* Each chart must have:
 
-* Proper title
-* Axis labels and ranges
-* Legends
+   * Proper **title**
+   * **Axis labels and ranges**
+   * **Legends**
 
 ---
 
@@ -158,9 +159,10 @@ Each chart must have:
 
 Using your chosen dataset:
 
-* Create new features based on ratios, binning, mathematical functions, and feature combinations
-* Perform date/time transformations
-* Calculate counts or aggregation statistics
+* Create new features based on:
+     * ratios, binning, mathematical functions, and feature combinations
+     * Date/time transformations
+     * Counts or aggregation statistics
 * Perform **feature selection** using *Mutual Information*
 * Apply **dimensionality reduction** using *PCA*
 * Provide clear explanations and a readable notebook
@@ -211,6 +213,7 @@ Don’t focus on filling boxes — focus on **understanding, creativity, and pro
 By the end of this course, you should be able to **independently design and execute a complete data science project**.
 
 **Due date:** Wed, Aban 28, 23:59
+
 {% comment %}
 
 ### Assignment 1: Pandas, Colab and Kaggle
