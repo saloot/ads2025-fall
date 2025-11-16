@@ -20,7 +20,7 @@ Here's the schedule for the course.
 | 3 | 13 Aban | 	[Different Problem Types and Accuracy Measures](https://docs.google.com/presentation/d/1OZegKO7u147UmiwdOkFDDmZuH-5sz1xPNb3zG8pLk3k/edit?usp=sharing) | [Accuracy Measures and Scikit-learn](https://colab.research.google.com/drive/1PYDfB4pAs0Hv2RY55Jsq4bsw9_ByNjsd?usp=sharing) |
 | 4 | 18 Aban | 	[Regression Methods](https://docs.google.com/presentation/d/1Xa8aoIB26Sd4WnZbFF2aF9vSPMUaUWwy0TKxt-bfsj4/edit?usp=sharing) | [Regression Methods Notebook](https://colab.research.google.com/drive/1HRfgAfs94rtK9WdEUpO9Os43yEt-x7zd?usp=sharing) | [Recording](https://www.aparat.com/v/f4345ps?playlist=1569063)
 | 4 | 20 Aban | 	[Classification Methods](https://docs.google.com/presentation/d/16t5Yks0rFZbwK1g1pGV2kQSGrVKpYet6RU3dprpj_l8/edit?usp=sharing) | 	[Classification Methods Notebook](https://colab.research.google.com/drive/1uQRWXCp8o9tSJaRR8C31K2ZPMsHtbfOD?usp=sharing) | [Recording](https://www.aparat.com/v/e1243g0?playlist=1569063)
-| 5 | 25 Aban | Multiclass/Multilabel Classification and Boosting | Multiclass Classification and Boosting Notebook |
+| 5 | 25 Aban | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/172QNMNyTmnksSYj21Km_KowTAkDFxT0vktl4kKn1D30/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1hqOlp9ps9Umby2Q3FZKEa6glS-g2Hkw-?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
 | 5 | 27 Aban | 	Neural Networks | Neural Networks Notebook |
 | 6 | 2 Azar | Project Session | -  | 404 :) |
 | 6 | 4 Azar | 	Deep Learning | Deep Learning Notebook |
