@@ -21,7 +21,7 @@ Here's the schedule for the course.
 | 4 | 18 Aban | 	[Regression Methods](https://docs.google.com/presentation/d/1Xa8aoIB26Sd4WnZbFF2aF9vSPMUaUWwy0TKxt-bfsj4/edit?usp=sharing) | [Regression Methods Notebook](https://colab.research.google.com/drive/1HRfgAfs94rtK9WdEUpO9Os43yEt-x7zd?usp=sharing) | [Recording](https://www.aparat.com/v/f4345ps?playlist=1569063)
 | 4 | 20 Aban | 	[Classification Methods](https://docs.google.com/presentation/d/16t5Yks0rFZbwK1g1pGV2kQSGrVKpYet6RU3dprpj_l8/edit?usp=sharing) | 	[Classification Methods Notebook](https://colab.research.google.com/drive/1uQRWXCp8o9tSJaRR8C31K2ZPMsHtbfOD?usp=sharing) | [Recording](https://www.aparat.com/v/e1243g0?playlist=1569063)
 | 5 | 25 Aban | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/172QNMNyTmnksSYj21Km_KowTAkDFxT0vktl4kKn1D30/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1hqOlp9ps9Umby2Q3FZKEa6glS-g2Hkw-?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
-| 5 | 27 Aban | 	Neural Networks | Neural Networks Notebook |
+| 5 | 27 Aban | 	[Neural Networks](https://docs.google.com/presentation/d/1m64mUACyo6I_eJCu9ViMAIyBP_BCplYDpspXw-B2NEg/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1EuCbMozXH19FbIKmFJtyiCqkpLv5-gh9?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
 | 6 | 2 Azar | Project Session | -  | 404 :) |
 | 6 | 4 Azar | 	Deep Learning | Deep Learning Notebook |
 | 7 | 9 Azar | 	Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
