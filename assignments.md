@@ -33,7 +33,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 # Homeworks and Due Dates
 
-### Assignment 1
+## Assignment 1
 
 The main goal of this homework is to apply what you have learned in lectures and **lab sessions** on a dataset of your choice.
 
@@ -213,6 +213,240 @@ Don’t focus on filling boxes — focus on **understanding, creativity, and pro
 By the end of this course, you should be able to **independently design and execute a complete data science project**.
 
 **Due date:** Wed, Aban 28, 23:59
+
+## Assignment 2
+
+In the first assignment, you practiced Exploratory Data Analysis (EDA), Preprocessing, and Feature Engineering.
+ Now, in this homework, we will focus on Regression and Classification Modeling using the same dataset (or a new one if preferred).
+
+
+---
+
+### Dataset Selection
+
+* You may continue working on the dataset used in **Homework 1**, or choose a new one.
+* The dataset should have enough **numerical and categorical features** to allow both regression and classification tasks.
+* You can use datasets from Kaggle or local/industry datasets.
+
+---
+
+### Submission Guidelines
+
+Your results must be presented in a well-documented **Jupyter Notebook (.ipynb)**.  
+Follow best coding practices and keep your notebook clean, modular, and reproducible.
+
+---
+
+### How to Submit
+
+1. Use the **same GitHub repository** that you created for Homework 1.
+2. You may also share your notebook via **Google Colab** (make sure link access is open).
+3. Your final submission must include:
+
+   * GitHub link (to the updated repository)
+   * Colab link (if applicable)
+   * The actual `.ipynb` file
+
+4. You may structure your code modularly (e.g., split into `.py` files and import them) rather than putting everything inside a single notebook.
+
+After submission, a short in-person session will be scheduled for you to explain and review your assignment.
+
+---
+
+### Collaboration Policy
+
+All homeworks must be done **individually**.
+
+---
+
+### Evaluation Criteria
+
+You will be graded qualitatively based on:
+
+* The analysis solves or meaningfully addresses the problem
+* The notebook is clear, readable, and well-commented
+* Explanations are concise, insightful, and easy to follow
+
+---
+
+### Bonus Points
+
+You can earn extra credit for valuable or creative additions, such as:
+
+* A clear and informative `README.md` explaining your models and results
+* Interactive visualizations (ROC curves, PR curves, confusion matrices, feature importance)
+* A summary table or dashboard comparing all models
+* Error analysis explaining where and why models fail
+* Interpretation of model outputs  
+  (e.g., linear coefficients, decision paths of trees)
+* Using cross-validation for more robust comparisons
+* Comparing models by complexity, training time, or interpretability
+* Visualizing decision boundaries on small toy datasets
+
+However:  
+Avoid unnecessary complexity, heavy libraries, or over-engineering.  
+Focus on producing a notebook that is **executable, insightful, and educational**, not overly complicated.
+
+---
+
+### Late Submission Policy
+
+A **10% penalty** will be applied for each late day.
+
+---
+
+### Generative AI Policy
+
+The use of tools such as **ChatGPT, Claude, Bard**, or other AI assistants is allowed and encouraged — but use them wisely.
+
+* Try solving each part yourself first.
+* Then use AI tools to check, improve, or compare your results.
+* What matters is **understanding your submitted code**, not who wrote it.
+* Be cautious: large models sometimes hallucinate.
+
+**Important:**  
+It is recommended to use the course’s **AI Teaching Assistant** before the deadline and upload your answers, approximate scores, and improvement suggestions.
+
+[AI ADS Assistant (چاکر شما)](https://ai.javabam.ir/?user_id=faeas1fkfe11111ssbaee131e1ae11efs&outlet=ads-ta)
+
+---
+
+### Homework Components
+
+---
+
+### 1. Regression Methods
+
+Using your chosen dataset, implement the following regression algorithms:
+
+* **Linear Regression** (try to reach R² > 0.8)
+* **Linear Regression** (try to reach R² > 0.9)
+* **Kernel Regression** (no R² requirement)
+* **Ridge Regression** (try to reach R² > 0.8)
+* **LASSO Regression** (try to reach R² > 0.8)
+
+You must also:
+
+* Briefly explain the **kernel trick** and how it improves regression.
+* Evaluate model performance using:
+  * Mean Squared Error (MSE)
+  * Mean Absolute Error (MAE)
+  * Mean Absolute Percentage Error (MAPE)
+  * R² Score
+
+---
+
+### 2. Binary Classification Methods
+
+Implement the following binary classifiers:
+
+* **Logistic Regression** (F1 > 0.85)
+* **SVM** (F1 > 0.85)
+* **Kernel SVM** (F1 > 0.85)
+* **KNN** (F1 > 0.85)  
+  * Tune **K** to find the optimal value
+* **Decision Trees** (F1 > 0.85)  
+  * Tune for best max-depth to avoid overfitting  
+  * Explain **3 regularization techniques** for decision trees
+* **Random Forests** (F1 > 0.9)
+
+Evaluate performance using:
+
+* Accuracy  
+* Precision  
+* Recall  
+* F1-Score  
+* Confusion Matrix  
+* ROC Curve  
+* AUC  
+
+---
+
+### 3. Multiclass Classification Methods
+
+Perform multiclass classification with **at least 4 classes**.
+
+Implement:
+
+* **Multiclass SVM**  
+  * Target: F1 > 2.5 / number_of_classes
+* **Multiclass Logistic Regression**  
+  * Using One-vs-Rest (OVR)  
+  * Using the multinomial approach  
+  * Compute **log loss**  
+  * Target: F1 > 2.5 / number_of_classes
+* **Multiclass KNN**  
+  * Tune for best **K**
+  * Target: F1 > 2.5 / number_of_classes
+* **Multiclass Decision Trees**  
+  * Target: F1 > 2.5 / number_of_classes
+* **Boosting Techniques** (F1 > 2.5 / number_of_classes):
+  * XGBoost  
+  * LightGBM  
+  * AdaBoost  
+  * CatBoost  
+  * Perform **Grid Search** for tuning on one boosting model
+
+Additionally, answer:
+
+* Explain how KNN and Decision Trees can be extended to multi-label classification problems.
+* Explain why boosting methods continue to perform remarkably well and are still well-used in the industry, even though newer and more powerful methods have emerged. Give some examples of industry implementations of this method.
+
+Evaluate model performance using the following multi-class metrics:
+
+* Accuracy  
+* Precision (per class)  
+* Recall (per class)  
+* F1-Score (Macro, Micro, Weighted)
+
+---
+
+### 4. Discussion Question (Multi-label Classification)
+
+We have a multi-label classification problem for football players with 4 possible labels:
+
+1. Played for the national team  
+2. History of heart problems  
+3. Previous knee injuries  
+4. Former team captain  
+
+**Question:**  
+Which **accuracy metric** is most appropriate for such a classifier, and why?
+
+---
+
+### Bonus Points
+
+* On the dataset we used in the lab session (for detecting diabetes), achieve an F1 score above 0.9 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
+
+* On the dataset we used in the lab session (for predicting the position of the players being one of possible *12*), achieve an F1 score above 0.65 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
+
+---
+
+### Contact & Questions
+
+If you have questions, ask in the **Telegram group**.
+
+If you prefer direct contact:
+
+* **Telegram:** t.me/peyman886  
+* **Email:** peyman.75.naseri@gmail.com  
+
+* **Telegram:** t.me/rafiei_amin  
+* **Email:** rafiei.amin.ir@gmail.com  
+
+You can usually find us in the **LLM Lab**.
+
+---
+
+### Final Note
+
+Grading is **qualitative**, not checklist-based.  
+Focus on **understanding, modeling, experimentation, and evaluation** — not just ticking boxes.
+
+By the end of this homework, you should be able to implement, tune, and compare multiple regression and classification models independently.
+
+**Due date:** Friday, Azar 14, 23:59
 
 {% comment %}
 
