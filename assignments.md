@@ -219,6 +219,10 @@ By the end of this course, you should be able to **independently design and exec
 In the first assignment, you practiced Exploratory Data Analysis (EDA), Preprocessing, and Feature Engineering.
  Now, in this homework, we will focus on Regression and Classification Modeling using the same dataset (or a new one if preferred).
 
+ Please make sure your evaluation is meaningful and aligned with the characteristics of your dataset. Different problems require different metrics, and blindly reporting standard metrics (such as MSE or accuracy) is not enough. Think carefully about what performance measure best reflects the real objective of your task. If needed, you may look at similar Kaggle projects, benchmarks, or even use LLM tools to get suggestions about the most appropriate metrics for your specific dataset. However, you must justify your final choice of evaluation metrics in your notebook.
+
+Similarly, if you believe that a different classical model (beyond the ones explicitly listed in this assignment) is more appropriate for your problem, you are encouraged to implement and evaluate it. In that case, clearly explain why this model is a good fit for your dataset and compare its performance with the baseline models.
+
 
 ---
 
@@ -319,11 +323,20 @@ It is recommended to use the course’s **AI Teaching Assistant** before the dea
 
 Using your chosen dataset, implement the following regression algorithms:
 
-* **Linear Regression** (try to reach R² > 0.8)
-* **Linear Regression** (try to reach R² > 0.9)
-* **Kernel Regression** (no R² requirement)
-* **Ridge Regression** (try to reach R² > 0.8)
-* **LASSO Regression** (try to reach R² > 0.8)
+* **Linear Regression** 
+* **Kernel Regression** 
+* **Ridge Regression** 
+* **LASSO Regression**
+optional (Any other model you see fit. For example):
+   * Polynomial Regression
+   * Bayesian Ridge Regression
+   * Elastic Net
+   * Locally Weighted Regression
+   * Decision Tree Regression
+   * SVR
+   * ARIMA Regression (for time series forecasting)
+   * SARIMA Regression (for time series forecasting)
+
 
 You must also:
 
@@ -333,6 +346,12 @@ You must also:
   * Mean Absolute Error (MAE)
   * Mean Absolute Percentage Error (MAPE)
   * R² Score
+  optional (Any other evaluation metric you see fit. For example):
+      * Mean Squared Logarithmic Error (MSLE)
+      * Median Absolute Error
+      * Root Mean Squared Logarithmic Error (RMSLE)
+      * Huber Loss
+
 
 ---
 
@@ -340,15 +359,20 @@ You must also:
 
 Implement the following binary classifiers:
 
-* **Logistic Regression** (F1 > 0.85)
-* **SVM** (F1 > 0.85)
-* **Kernel SVM** (F1 > 0.85)
-* **KNN** (F1 > 0.85)  
+* **Logistic Regression** 
+* **SVM** 
+* **Kernel SVM** 
+* **KNN**   
   * Tune **K** to find the optimal value
-* **Decision Trees** (F1 > 0.85)  
+* **Decision Trees**  
   * Tune for best max-depth to avoid overfitting  
   * Explain **3 regularization techniques** for decision trees
-* **Random Forests** (F1 > 0.9)
+* **Random Forests**
+* Optional (Any other model you see fit. For example):
+   * Linear Discriminant Analysis (LDA)
+   * Naive Bayes
+   * Gaussian Mixture Model Classifier (GMM)
+
 
 Evaluate performance using:
 
@@ -358,7 +382,18 @@ Evaluate performance using:
 * F1-Score  
 * Confusion Matrix  
 * ROC Curve  
-* AUC  
+* AUC
+* Optional (Any other evaluation metric you see fit. For example):
+   * Sensitivity 
+   * Specificity 
+   * PR AUC (Precision-Recall AUC)
+   * Cross-Entropy
+   * Mutual Information
+   * KL Divergence
+   * Jensen–Shannon Divergence
+
+You should also:
+   * Explain the effect of class imbalance on binary metrics
 
 ---
 
@@ -369,23 +404,19 @@ Perform multiclass classification with **at least 4 classes**.
 Implement:
 
 * **Multiclass SVM**  
-  * Target: F1 > 2.5 / number_of_classes
 * **Multiclass Logistic Regression**  
   * Using One-vs-Rest (OVR)  
   * Using the multinomial approach  
   * Compute **log loss**  
-  * Target: F1 > 2.5 / number_of_classes
 * **Multiclass KNN**  
   * Tune for best **K**
-  * Target: F1 > 2.5 / number_of_classes
 * **Multiclass Decision Trees**  
-  * Target: F1 > 2.5 / number_of_classes
-* **Boosting Techniques** (F1 > 2.5 / number_of_classes):
+* **Boosting Techniques**:
   * XGBoost  
   * LightGBM  
   * AdaBoost  
   * CatBoost  
-  * Perform **Grid Search** for tuning on one boosting model
+  * Apply at least one boosting method, and tune it with Grid Search or Bayesian Optimization
 
 Additionally, answer:
 
@@ -398,6 +429,13 @@ Evaluate model performance using the following multi-class metrics:
 * Precision (per class)  
 * Recall (per class)  
 * F1-Score (Macro, Micro, Weighted)
+* Optional (Any other evaluation metric you see fit. For example):
+   * Kappa
+   * Segmentation metrics: IoU, Dice
+   * Ranking Metrics: Top-K Accuracy, Recall@K, NDCG
+   * Multi-Label Classification Metrics: Hamming, Jaccard Index, Coverage Error
+   * G-Mean
+
 
 ---
 
@@ -417,9 +455,7 @@ Which **accuracy metric** is most appropriate for such a classifier, and why?
 
 ### Bonus Points
 
-* On the dataset we used in the lab session (for detecting diabetes), achieve an F1 score above 0.9 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
 
-* On the dataset we used in the lab session (for predicting the position of the players being one of possible *12*), achieve an F1 score above 0.65 (on the test set) using whatever classification method you like (test set should be 20% of the whole data).
 
 ---
 
@@ -431,9 +467,6 @@ If you prefer direct contact:
 
 * **Telegram:** t.me/peyman886  
 * **Email:** peyman.75.naseri@gmail.com  
-
-* **Telegram:** t.me/rafiei_amin  
-* **Email:** rafiei.amin.ir@gmail.com  
 
 You can usually find us in the **LLM Lab**.
 
