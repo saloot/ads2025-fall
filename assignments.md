@@ -216,13 +216,11 @@ By the end of this course, you should be able to **independently design and exec
 
 ## Assignment 2
 
-In the first assignment, you practiced Exploratory Data Analysis (EDA), Preprocessing, and Feature Engineering.
- Now, in this homework, we will focus on Regression and Classification Modeling using the same dataset (or a new one if preferred).
+In the first assignment, you practiced **EDA, Preprocessing, and Feature Engineering**. Now, in this homework, we will focus on **Regression and Classification Modeling** using the same dataset (or a new one if preferred).
 
- Please make sure your evaluation is meaningful and aligned with the characteristics of your dataset. Different problems require different metrics, and blindly reporting standard metrics (such as MSE or accuracy) is not enough. Think carefully about what performance measure best reflects the real objective of your task. If needed, you may look at similar Kaggle projects, benchmarks, or even use LLM tools to get suggestions about the most appropriate metrics for your specific dataset. However, you must justify your final choice of evaluation metrics in your notebook.
+Please make sure your evaluation is meaningful and aligned with the characteristics of your dataset. Different problems require different metrics, and blindly reporting standard metrics (such as MSE or accuracy) is not enough. Think carefully about what performance measure best reflects the real objective of your task. If needed, you may look at similar Kaggle projects, benchmarks, or even use LLM tools to get suggestions about the most appropriate metrics for your specific dataset. However, you must justify your final choice of evaluation metrics in your notebook.
 
 Similarly, if you believe that a different classical model (beyond the ones explicitly listed in this assignment) is more appropriate for your problem, you are encouraged to implement and evaluate it. In that case, clearly explain why this model is a good fit for your dataset and compare its performance with the baseline models.
-
 
 ---
 
@@ -239,8 +237,6 @@ Similarly, if you believe that a different classical model (beyond the ones expl
 Your results must be presented in a well-documented **Jupyter Notebook (.ipynb)**.  
 Follow best coding practices and keep your notebook clean, modular, and reproducible.
 
----
-
 ### How to Submit
 
 1. Use the **same GitHub repository** that you created for Homework 1.
@@ -253,8 +249,11 @@ Follow best coding practices and keep your notebook clean, modular, and reproduc
 
 4. You may structure your code modularly (e.g., split into `.py` files and import them) rather than putting everything inside a single notebook.
 
-After submission, a short in-person session will be scheduled for you to explain and review your assignment.
+After submission, a **short in-person session** will be scheduled for you to **explain and review your assignment**.
 
+### Late Submission Policy
+
+   * A **10% penalty** will be applied for each late day.
 ---
 
 ### Collaboration Policy
@@ -265,7 +264,7 @@ All homeworks must be done **individually**.
 
 ### Evaluation Criteria
 
-You will be graded qualitatively based on:
+You will be graded **qualitatively** based on:
 
 * The analysis solves or meaningfully addresses the problem
 * The notebook is clear, readable, and well-commented
@@ -275,27 +274,21 @@ You will be graded qualitatively based on:
 
 ### Bonus Points
 
-You can earn extra credit for valuable or creative additions, such as:
+If you go beyond the basic requirements and add something valuable or creative, you can earn **extra credit**. The goal of bonus points is to reward genuine insight, effort, and clarity — not just extra code.
 
-* A clear and informative `README.md` explaining your models and results
-* Interactive visualizations (ROC curves, PR curves, confusion matrices, feature importance)
-* A summary table or dashboard comparing all models
-* Error analysis explaining where and why models fail
-* Interpretation of model outputs  
-  (e.g., linear coefficients, decision paths of trees)
-* Using cross-validation for more robust comparisons
-* Comparing models by complexity, training time, or interpretability
-* Visualizing decision boundaries on small toy datasets
+For example:
+   * Having a clear and informative **README.md** file in your GitHub repository that briefly explains your models, results, and structure.
+   * Creating **interactive model comparison visualizations** (e.g., ROC and Precision-Recall curves, confusion matrices, feature importance plots).
+   * Implementing a **summary table or dashboard** comparing regression and classification models based on different metrics.
+   * Conducting **error analysis** identifies where your models perform poorly and explains why.
+   * Adding a brief **interpretation section** that explains what each model is learning (e.g., coefficient interpretation for linear models, decision paths for trees).
+   * Using **cross-validation** to show the stability of your results.
+   * Comparing models not only by accuracy but also by **training time, complexity, or interpretability**.
+   * Visualizing **decision boundaries** for 2D toy datasets to show conceptual understanding.
 
-However:  
-Avoid unnecessary complexity, heavy libraries, or over-engineering.  
-Focus on producing a notebook that is **executable, insightful, and educational**, not overly complicated.
 
----
-
-### Late Submission Policy
-
-A **10% penalty** will be applied for each late day.
+However, unnecessary complexity, heavy libraries, or overly fancy visuals will not earn extra points. Overengineering does not earn extra credit.
+Focus on producing a notebook that is **executable, insightful, and educational** rather than overloaded or messy.
 
 ---
 
@@ -303,10 +296,10 @@ A **10% penalty** will be applied for each late day.
 
 The use of tools such as **ChatGPT, Claude, Bard**, or other AI assistants is allowed and encouraged — but use them wisely.
 
-* Try solving each part yourself first.
-* Then use AI tools to check, improve, or compare your results.
-* What matters is **understanding your submitted code**, not who wrote it.
-* Be cautious: large models sometimes hallucinate.
+   * Try solving each part yourself first.
+   * Then use AI tools to check, improve, or compare your results.
+   * What matters is **understanding your submitted code**, not who wrote it.
+   * Be cautious: large models sometimes hallucinate.
 
 **Important:**  
 It is recommended to use the course’s **AI Teaching Assistant** before the deadline and upload your answers, approximate scores, and improvement suggestions.
@@ -353,20 +346,24 @@ You must also:
       * Huber Loss
 
 
+**Discussion Question:**
+   1. Choose the best regression metric for your dataset and justify.
+   2. Explain when each regression model is preferable. 
+   3. Briefly explain **the kernel trick** in a few sentences and how it can help achieve better regression results.
+
 ---
 
 ### 2. Binary Classification Methods
 
 Implement the following binary classifiers:
 
-* **Logistic Regression** 
+* **Logistic Regression for classification** 
 * **SVM** 
 * **Kernel SVM** 
 * **KNN**   
-  * Tune **K** to find the optimal value
+  * Tune to find the best number of neighbors (K)
 * **Decision Trees**  
   * Tune for best max-depth to avoid overfitting  
-  * Explain **3 regularization techniques** for decision trees
 * **Random Forests**
 * Optional (Any other model you see fit. For example):
    * Linear Discriminant Analysis (LDA)
@@ -392,8 +389,11 @@ Evaluate performance using:
    * KL Divergence
    * Jensen–Shannon Divergence
 
-You should also:
-   * Explain the effect of class imbalance on binary metrics
+**Discussion Question:**
+   1. Choose the best classification metric for your dataset and justify
+   2. Explain 3 techniques to regularize the training process for decision trees
+   3. Compare Linear SVM vs Kernel SVM
+
 
 ---
 
@@ -415,13 +415,17 @@ Implement:
   * XGBoost  
   * LightGBM  
   * AdaBoost  
-  * CatBoost  
-  * Apply at least one boosting method, and tune it with Grid Search or Bayesian Optimization
+  * CatBoost
+  * (Optional) Any other model you see fit. For example:
+      * Multiclass Random Forest
+      * Kernel SVM with One-vs-One (OVO)
+      * Parzen Window Classifier
+      * Radius Neighbors Classifier
+      * Voting Classifier (Hard/Soft voting)
+      * Stacking Classifier
+      * HMM (for time series forecasting)
+ 
 
-Additionally, answer:
-
-* Explain how KNN and Decision Trees can be extended to multi-label classification problems.
-* Explain why boosting methods continue to perform remarkably well and are still well-used in the industry, even though newer and more powerful methods have emerged. Give some examples of industry implementations of this method.
 
 Evaluate model performance using the following multi-class metrics:
 
@@ -437,25 +441,55 @@ Evaluate model performance using the following multi-class metrics:
    * G-Mean
 
 
----
-
-### 4. Discussion Question (Multi-label Classification)
-
-We have a multi-label classification problem for football players with 4 possible labels:
-
-1. Played for the national team  
-2. History of heart problems  
-3. Previous knee injuries  
-4. Former team captain  
-
-**Question:**  
-Which **accuracy metric** is most appropriate for such a classifier, and why?
+**Discussion Question:***
+   1. Choose the best multiclass-classification metric for your dataset and justify.
+   2. Explain how **KNN** and **Decision Trees** can be extended to **multi-label classification** problems.
+   3. Suppose we have a multi-label classification problem in football, where each player can belong to some of these 4 classes:
+      * Class 1: The player has played for the national team before
+      * Class 2: The player has a history of heart problems
+      * Class 3: The player had previous knee injuries
+      * Class 4: The player has been a team captain in the past
+   
+   What accuracy metric would you use to best evaluate a classification algorithm that predicts the above classes based on data from each player, and **why**?
 
 ---
 
-### Bonus Points
+### 4. Challenging Questions (Bonus)
 
-
+   1. Explain bias–variance trade-off in regression models
+   2. When does Kernel Regression outperform Linear Regression
+   3.Compare L1 vs L2 regularization
+      A. When does LASSO perform better?
+      B. When does Ridge perform better?
+      C. Why does LASSO produce sparsity?
+   4. Explain why MAPE is unreliable in some datasets
+   5. Discuss the effect of outliers on regression models
+   6. Explain the effect of class imbalance on binary metrics. Why is accuracy misleading in imbalanced datasets
+   7. Explain how the decision boundaries of your models differ fundamentally (bonus)
+   8. Explain effect of K in KNN
+   9. Overfitting in Decision Trees:
+      A. Why do decision trees overfit easily?
+      B. Why is max depth not enough?
+      C. How pruning works?
+   10. Explain why Tree-based models are good feature selectors
+   11. Micro vs Macro vs Weighted F1
+      A. When is Macro F1 a better reflection?
+      B. When is Weighted F1 misleading?
+      C. Why does Micro F1 favor large classes?
+   12. Multi-label vs Multiclass
+      A. Explain the fundamental difference
+         * Output space
+         * Loss functions
+         * Thresholding
+         * Metrics
+      B. Why KNN and Decision Trees can be extended for multi-label classification?
+   13. Explain precision–recall trade-off
+   14. Explain ROC vs PR curve 
+   15. If you had unlimited time and resources, how would you improve your models think:
+      A. Better preprocessing
+      B. Better features
+      C. Better models
+      D. Better metrics
 
 ---
 
@@ -479,7 +513,7 @@ Focus on **understanding, modeling, experimentation, and evaluation** — not ju
 
 By the end of this homework, you should be able to implement, tune, and compare multiple regression and classification models independently.
 
-**Due date:** Friday, Azar 14, 23:59
+**Due date:** Sat, Azar 15, 23:59
 
 {% comment %}
 
