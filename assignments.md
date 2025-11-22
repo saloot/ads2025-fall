@@ -33,7 +33,7 @@ Homeworks will be announced regularly here and in the lectures. For the homework
 
 # Homeworks and Due Dates
 
-## Assignment 1
+# Assignment 1
 
 The main goal of this homework is to apply what you have learned in lectures and **lab sessions** on a dataset of your choice.
 
@@ -214,7 +214,10 @@ By the end of this course, you should be able to **independently design and exec
 
 **Due date:** Wed, Aban 28, 23:59
 
-## Assignment 2
+---
+
+
+# Assignment 2
 
 In the first assignment, you practiced **EDA, Preprocessing, and Feature Engineering**. Now, in this homework, we will focus on **Regression and Classification Modeling** using the same dataset (or a new one if preferred).
 
