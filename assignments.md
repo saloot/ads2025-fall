@@ -459,37 +459,37 @@ Evaluate model performance using the following multi-class metrics:
    1. Explain bias–variance trade-off in regression models
    2. When does Kernel Regression outperform Linear Regression
    3.Compare L1 vs L2 regularization
-      A. When does LASSO perform better?
-      B. When does Ridge perform better?
-      C. Why does LASSO produce sparsity?
+      * When does LASSO perform better?
+      * When does Ridge perform better?
+      * Why does LASSO produce sparsity?
    4. Explain why MAPE is unreliable in some datasets
    5. Discuss the effect of outliers on regression models
    6. Explain the effect of class imbalance on binary metrics. Why is accuracy misleading in imbalanced datasets
    7. Explain how the decision boundaries of your models differ fundamentally (bonus)
    8. Explain effect of K in KNN
    9. Overfitting in Decision Trees:
-      A. Why do decision trees overfit easily?
-      B. Why is max depth not enough?
-      C. How pruning works?
+      * Why do decision trees overfit easily?
+      * Why is max depth not enough?
+      * How pruning works?
    10. Explain why Tree-based models are good feature selectors
    11. Micro vs Macro vs Weighted F1
-      A. When is Macro F1 a better reflection?
-      B. When is Weighted F1 misleading?
-      C. Why does Micro F1 favor large classes?
+       * When is Macro F1 a better reflection?
+       * When is Weighted F1 misleading?
+       * Why does Micro F1 favor large classes?
    12. Multi-label vs Multiclass
-      A. Explain the fundamental difference
+       * Explain the fundamental difference
          * Output space
          * Loss functions
          * Thresholding
          * Metrics
-      B. Why KNN and Decision Trees can be extended for multi-label classification?
+      * Why KNN and Decision Trees can be extended for multi-label classification?
    13. Explain precision–recall trade-off
    14. Explain ROC vs PR curve 
    15. If you had unlimited time and resources, how would you improve your models think:
-      A. Better preprocessing
-      B. Better features
-      C. Better models
-      D. Better metrics
+       * Better preprocessing
+       * Better features
+       * Better models
+       * Better metrics
 
 ---
 
