@@ -216,7 +216,6 @@ By the end of this course, you should be able to **independently design and exec
 
 ---
 
-
 # Assignment 2
 
 In the first assignment, you practiced **EDA, Preprocessing, and Feature Engineering**. Now, in this homework, we will focus on **Regression and Classification Modeling** using the same dataset (or a new one if preferred).
@@ -311,9 +310,7 @@ It is recommended to use the course’s **AI Teaching Assistant** before the dea
 
 ---
 
-### Homework Components
-
----
+## Homework Components
 
 ### 1. Regression Methods
 
@@ -444,7 +441,7 @@ Evaluate model performance using the following multi-class metrics:
    * G-Mean
 
 
-**Discussion Question:***
+**Discussion Question:**
    1. Choose the best multiclass-classification metric for your dataset and justify.
    2. Explain how **KNN** and **Decision Trees** can be extended to **multi-label classification** problems.
    3. Suppose we have a multi-label classification problem in football, where each player can belong to some of these 4 classes:
