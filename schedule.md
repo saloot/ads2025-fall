@@ -23,7 +23,7 @@ Here's the schedule for the course.
 | 5 | 25 Aban | [Multiclass/Multilabel Classification and Boosting](https://docs.google.com/presentation/d/172QNMNyTmnksSYj21Km_KowTAkDFxT0vktl4kKn1D30/edit?usp=sharing) | [Multiclass Classification and Boosting Notebook](https://colab.research.google.com/drive/1hqOlp9ps9Umby2Q3FZKEa6glS-g2Hkw-?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
 | 5 | 27 Aban | 	[Neural Networks](https://docs.google.com/presentation/d/1m64mUACyo6I_eJCu9ViMAIyBP_BCplYDpspXw-B2NEg/edit?usp=sharing) | [Neural Networks Notebook](https://colab.research.google.com/drive/1EuCbMozXH19FbIKmFJtyiCqkpLv5-gh9?usp=sharing) | [Recording](https://www.aparat.com/v/yJt5u?playlist=1569063)
 | 6 | 2 Azar | 	[Deep Learning](https://docs.google.com/presentation/d/1T-robJvfDaelp64qOpt2lmcA3nEsm2kEPuaEeASQXBg/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1KQAhxy2oVEvKzyyB7JqbGCKD7x-yso9B?usp=sharing) | [Recording](https://www.aparat.com/v/o42c0a9?playlist=1569063)
-| 7 | 4 Azar | 	Deep Learning Application: Image Classification | Convolutional Neural Networks Notebook |
+| 7 | 4 Azar | 	[Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1ync4qnkPBI--8RuoEFJS1YEEUoB76rKYmae_G91C2MU/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/17j_1eA9_hPPsDvtLdCqXXcCDBOm-tLWb?usp=sharing) | [Recording](https://www.aparat.com/v/y790tt7?playlist=1569063)
 | 6 | 9 Azar | Project Session | -  | 404 :) |
 | 7 | 11 Azar | 	Generative AI | - |
 | 8 | 16 Azar | - | GenAI Notebook |
