@@ -25,13 +25,11 @@ Here's the schedule for the course.
 | 6 | 2 Azar | 	[Deep Learning](https://docs.google.com/presentation/d/1T-robJvfDaelp64qOpt2lmcA3nEsm2kEPuaEeASQXBg/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1KQAhxy2oVEvKzyyB7JqbGCKD7x-yso9B?usp=sharing) | [Recording](https://www.aparat.com/v/o42c0a9?playlist=1569063)
 | 7 | 4 Azar | 	[Deep Learning Application: Image Classification](https://docs.google.com/presentation/d/1ync4qnkPBI--8RuoEFJS1YEEUoB76rKYmae_G91C2MU/edit?usp=sharing) | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/17j_1eA9_hPPsDvtLdCqXXcCDBOm-tLWb?usp=sharing) | [Recording](https://www.aparat.com/v/y790tt7?playlist=1569063)
 | 6 | 9 Azar | 	[Generative AI](https://docs.google.com/presentation/d/1y3NydKw4fbFDI4iVGs-aV0eR5UpuE-1MuZTxQ8JJ2IU/edit?usp=sharing) | [GenAI Notebook](https://a4re.ir/lab12) | - |
-| 7 | 11 Azar | Project Session | -  | 404 :) |
-
-| 8 | 16 Azar | - | GenAI Notebook |
-| 8 | 18 Azar | Project Session | - | 404 :) |
-| 9 | 23 Azar | RAG & Agents | - |
-| 9 | 25 Azar | - | RAG & Agents Notebook |
-| 10 | 30 Azar | Model Explainability and Imbalanced Data Problem	 | Explainable AI and Imbalanced Data Problem |
+| 7 | 11 Azar | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1mnvD5rZ78JeLfEm7pvzE1f2yPiNJsUarY-CkefKbdwQ/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1s0m2oZEmJpLlzi2z2Ifl7KzwJhH6TAGQ?usp=sharing) | [Recording](https://www.aparat.com/v/a871392?playlist=1569063)
+| 8 | 16 Azar | Project Session | -  | 404 :) |
+| 9 | 18 Azar | RAG & Agents | - |
+| 10 | 23 Azar | RAG & Agents Notebook | - |
+| 11 | 25 Azar | Project Session | - | 404 :) |
 | 10 | 2 Dey | Project Session | - | 404 :) |
 | 11 | 7 Dey | Software Skills and Notes for Production | - |
 | 11 | 9 Dey | - | Software Skills Notebook |
