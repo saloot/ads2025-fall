@@ -27,7 +27,7 @@ Here's the schedule for the course.
 | 6 | 9 Azar | 	[Generative AI](https://docs.google.com/presentation/d/1y3NydKw4fbFDI4iVGs-aV0eR5UpuE-1MuZTxQ8JJ2IU/edit?usp=sharing) | [GenAI Notebook](https://a4re.ir/lab12) | - |
 | 7 | 11 Azar | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1mnvD5rZ78JeLfEm7pvzE1f2yPiNJsUarY-CkefKbdwQ/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1s0m2oZEmJpLlzi2z2Ifl7KzwJhH6TAGQ?usp=sharing) | [Recording](https://www.aparat.com/v/a871392?playlist=1569063)
 | 8 | 16 Azar | Project Session | -  | 404 :) |
-| 9 | 18 Azar | RAG & Agents | - |
+| 9 | 18 Azar | [RAGs](https://docs.google.com/presentation/d/1Q59ik2Fa0hpTX9qiZ3QozSBtusNsqSx6q7UNIlZzAzo/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
 | 10 | 23 Azar | RAG & Agents Notebook | - |
 | 11 | 25 Azar | Project Session | - | 404 :) |
 | 10 | 2 Dey | Project Session | - | 404 :) |
