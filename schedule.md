@@ -28,8 +28,8 @@ Here's the schedule for the course.
 | 7 | 11 Azar | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1mnvD5rZ78JeLfEm7pvzE1f2yPiNJsUarY-CkefKbdwQ/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1s0m2oZEmJpLlzi2z2Ifl7KzwJhH6TAGQ?usp=sharing) | [Recording](https://www.aparat.com/v/a871392?playlist=1569063)
 | 8 | 16 Azar | Project Session | -  | 404 :) |
 | 9 | 18 Azar | [RAGs](https://docs.google.com/presentation/d/1Q59ik2Fa0hpTX9qiZ3QozSBtusNsqSx6q7UNIlZzAzo/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
-| 10 | 23 Azar | RAG & Agents Notebook | - |
-| 11 | 25 Azar | Project Session | - | 404 :) |
+| 10 | 23 Azar | [RAG & Agents Notebook](https://docs.google.com/presentation/d/1RhNCQYUR_WS0fdbSpkAoXGY0SSE8kIuKEtNQA0e1GF4/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | Recording
+| 11 | 25 Azar | RAG and Agents Deployment | RAG and Agents Deployment Notebook | - |
 | 10 | 2 Dey | Project Session | - | 404 :) |
 | 11 | 7 Dey | Software Skills and Notes for Production | - |
 | 11 | 9 Dey | - | Software Skills Notebook |
