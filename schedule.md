@@ -30,8 +30,8 @@ Here's the schedule for the course.
 | 9 | 18 Azar | [RAGs](https://docs.google.com/presentation/d/1Q59ik2Fa0hpTX9qiZ3QozSBtusNsqSx6q7UNIlZzAzo/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
 | 10 | 23 Azar | [RAG & Agents Notebook](https://docs.google.com/presentation/d/1RhNCQYUR_WS0fdbSpkAoXGY0SSE8kIuKEtNQA0e1GF4/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | Recording
 | 11 | 25 Azar | RAG and Agents Deployment | RAG and Agents Deployment Notebook | - |
-| 10 | 2 Dey | Project Session | - | 404 :) |
-| 11 | 7 Dey | Software Skills and Notes for Production | - |
+| 11 | 2 Dey | [Deploying AI Agents](https://docs.google.com/presentation/d/1JtVuv71_vr5_lhPbL04WIkbLdhtQz7uh3APog4eBjIA/edit?usp=sharing)  | - |
+| 10 | 7 Dey | Project Session | - | 404 :) |
 | 11 | 9 Dey | - | Software Skills Notebook |
 | 12 | 14 Dey | Practical Stuff | Practical Stuff Notebook |
 | 12 | 16 Dey | Guest Speakers from Inudstry | - |
