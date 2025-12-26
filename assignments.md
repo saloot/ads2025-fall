@@ -1109,6 +1109,9 @@ You may also contact directly:
 * **Email:** hkargar17@gmail.com
 
 ---
+**IMPORTANT NOTE:** In your notebook, per cell, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, **you will not get the full mark**.
+
+Good Luck :)
 
 **Due date:** **Fri, Dey 19, 23:59:59**
 
