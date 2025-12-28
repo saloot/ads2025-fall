@@ -831,6 +831,292 @@ By the end of this assignment, you should be able to:
 
 **Due date:** Mon, Dey 1, 23:59
 
+
+# Assignment 4
+
+## Introduction
+
+In previous assignments, you focused on **Exploratory Data Analysis**, **Data Cleaning**, and **Classical Machine Learning techniques**.  
+In this assignment, the focus shifts toward **modern data science workflows**, including:
+
+* Deep Generative Models
+* Handling Imbalanced Data
+* Explainable AI (XAI)
+* End-to-end ML Pipelines
+
+These topics form the foundation of many real-world machine learning systems used in industry and research.
+
+In this homework, you will study and implement the following concepts:
+
+* Variational Autoencoders (VAEs)
+* Generative Adversarial Networks (GANs)
+* Diffusion Models
+* Machine Learning Pipelines
+* Handling Imbalanced Data
+* Explainable AI (XAI)
+
+---
+
+## Submission Guidelines
+
+Your results must be presented in a well-documented **Jupyter Notebook (`.ipynb`)**.
+
+* Keep your notebook **clean, modular, and reproducible**
+* The focus is on **clarity and understanding**, not quantity or excessive training
+
+---
+
+### How to Submit
+
+1. Use the **same GitHub repository** you used for Homework 1 & 2
+2. You may also share your notebook via **Google Colab** (ensure link access is open)
+3. Your final submission must include:
+   * GitHub link
+   * Colab link (if applicable)
+   * The final `.ipynb` notebook file
+4. You may organize your code modularly (e.g., `.py` files imported into the notebook)
+
+---
+
+## Collaboration Policy
+
+All homeworks must be done **individually**.
+
+---
+
+## Evaluation Criteria
+
+You will be graded **qualitatively**, based on:
+
+* Correct and appropriate implementation of models and pipelines
+* Clear, readable, and well-commented notebooks
+* Meaningful explanations and interpretations of experiments
+* Analysis of how results change when:
+  * Data processing steps are modified
+  * Modeling choices are altered
+  * Experimental settings are adjusted
+* Avoiding unnecessary training or excessive computation
+* Effective use of figures, tables, and comments to support understanding
+
+---
+
+## Late Submission Policy
+
+A **10% penalty** will be applied for **each late day**.
+
+---
+
+## Generative AI Policy
+
+The use of tools such as **ChatGPT, Claude, Gemini**, or similar AI assistants is **allowed and encouraged**, but use them wisely.
+
+* Try to solve each problem yourself first
+* Then, use AI tools to check, improve, or compare your solutions
+* What matters most is **understanding the code you submit**, not who wrote it
+* Be cautious — large language models may *hallucinate* or produce inaccurate results
+
+**Important:**  
+It is strongly recommended that you use the course’s **AI Teaching Assistant** before the deadline and upload:
+
+* Your answers
+* Approximate scores
+* Suggestions for improving your implementations
+
+[AI ADS Assistant (چاکر شما)](https://ai.javabam.ir/?user_id=faeas1fkfe11111ssbaee131e1ae11efs&outlet=ads-ta)
+
+The goal is to help you become confident in solving real-world data science problems **independently**.
+
+---
+
+## Homework Components
+
+---
+
+## Part 1: ML Pipelines
+
+Using the dataset from **Assignment 2 or 3** where class imbalance exists:
+
+### A. Data Cleaning Pipeline (Pandas)
+
+* Create a data loading and cleaning pipeline using `pandas.pipe`
+* Implement custom functions for data validation
+* Chain multiple cleaning operations together
+
+### B. Preprocessing Pipeline (Scikit-learn)
+
+* Build preprocessing pipelines using `sklearn.pipeline`
+* Include appropriate feature scaling
+* Handle categorical feature encoding within the pipeline
+
+### C. Missing Data Handling
+
+* Use an **Imputer** inside your pipeline
+* Compare different imputation strategies:
+  * Mean
+  * Median
+  * KNN
+  * Iterative imputation
+
+### D. End-to-End Pipeline
+
+* Attach a classifier to the pipeline
+* Ensure the entire pipeline is trainable as a single unit
+* Save and load the complete pipeline
+
+---
+
+## Part 2: Handling Imbalanced Data
+
+Using the dataset from **Assignment 1** with imbalanced classes:
+
+### A. Random Undersampling
+
+* Apply random undersampling to majority classes
+* Compare different undersampling strategies
+* Analyze the impact on model performance
+
+### B. Random Oversampling
+
+* Apply random oversampling to minority classes
+* Compare results with undersampling
+
+### C. SMOTE
+
+* Implement **SMOTE (Synthetic Minority Over-sampling Technique)**
+* Explain how SMOTE generates synthetic samples
+* Compare SMOTE with simple oversampling
+
+### D. Cost-Sensitive Learning
+
+* Compute appropriate class weights
+* Integrate class weights into your classifier
+* Analyze performance differences
+
+---
+
+## Part 3: Variational Autoencoders (VAEs)
+
+### A. VAE Implementation
+
+* Implement and train a **Variational Autoencoder**
+* Use an image dataset of your choice
+
+### B. KL-Divergence Exploration
+
+* Experiment with different KL-divergence weights (**β-VAE**)
+* Analyze the effect on:
+  * Latent disentanglement
+  * Image quality
+
+### C. Latent Space Sampling
+
+* Interpolate between two latent vectors
+* Generate and visualize new samples
+
+---
+
+## Part 4: Generative Adversarial Networks (GANs)
+
+Using the **MNIST dataset**, implement a GAN:
+
+* Implement the **Generator**
+* Implement the **Discriminator**
+* Implement the training loop with appropriate loss functions
+* Generate and visualize samples across training epochs
+
+### Discussion Question
+
+* Why can GANs potentially suffer from **mode collapse**?
+* Why is there no formal guarantee that mode collapse will occur?
+
+---
+
+## Part 5: Diffusion Models
+
+### A. Denoising Diffusion Model
+
+* Implement a simple **DDPM** for image generation
+
+### B. Noise Schedule Experimentation
+
+* Compare **linear** and **cosine** noise schedules
+* Analyze their effect on sample quality
+
+### C. Diffusion vs. GAN Comparison
+
+* Compare diffusion models and GANs in terms of:
+  * Output quality
+  * Diversity
+  * Training stability
+
+---
+
+## Part 6: Explainable AI (XAI)
+
+Using the convolutional architecture from **Assignment 3**, analyze model behavior:
+
+### A. Visual Explanations
+
+* Implement **Grad-CAM**
+* Generate heatmaps for:
+  * Correctly classified images
+  * Misclassified images
+* Explain what the model is focusing on
+
+### B. Model-Agnostic Explainability
+
+Implement and analyze:
+
+* **SHAP**
+  * Summary plots
+  * Waterfall plots
+* **LIME**
+  * Superpixel-based explanations
+* **ELI5**
+  * Feature importance visualizations
+
+---
+
+## Analysis and Insights
+
+For **at least 3 misclassified images**, provide a detailed analysis:
+
+* What features did the model focus on?
+* Why did the misclassification occur?
+* What could be improved in the training process?
+
+---
+
+## Optional Bonus (End-to-End Workflow)
+
+Choose a single dataset and apply the **full pipeline**:
+
+Data Cleaning → ML Pipeline → Imbalance Handling → Generative Model → XAI
+
+
+* Compare results **before and after** each stage
+* Discuss improvements, trade-offs, and limitations
+
+---
+
+## Contact & Questions
+
+If you have any questions, feel free to ask in the **Telegram group**.
+
+You may also contact directly:
+
+* **Telegram:** t.me/hos3ein199999
+* **Email:** hkargar17@gmail.com
+
+---
+**IMPORTANT NOTE:** In your notebook, per cell, please explain why you are doing that part (in natural language, Farsi or English). Also, you need to explain what you have gained/understood from that part. If you only provide code without the comments, **you will not get the full mark**.
+
+Good Luck :)
+
+**Due date:** **Fri, Dey 19, 23:59:59**
+
+
+
 {% comment %}
 
 ### Assignment 1: Pandas, Colab and Kaggle
