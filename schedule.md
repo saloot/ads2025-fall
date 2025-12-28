@@ -28,14 +28,13 @@ Here's the schedule for the course.
 | 7 | 11 Azar | [Model Explainability and Imbalanced Data Problem](https://docs.google.com/presentation/d/1mnvD5rZ78JeLfEm7pvzE1f2yPiNJsUarY-CkefKbdwQ/edit?usp=sharing) | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1s0m2oZEmJpLlzi2z2Ifl7KzwJhH6TAGQ?usp=sharing) | [Recording](https://www.aparat.com/v/a871392?playlist=1569063)
 | 8 | 16 Azar | Project Session | -  | 404 :) |
 | 9 | 18 Azar | [RAGs](https://docs.google.com/presentation/d/1Q59ik2Fa0hpTX9qiZ3QozSBtusNsqSx6q7UNIlZzAzo/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
-| 10 | 23 Azar | [RAG & Agents Notebook](https://docs.google.com/presentation/d/1RhNCQYUR_WS0fdbSpkAoXGY0SSE8kIuKEtNQA0e1GF4/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | Recording
-| 11 | 25 Azar | RAG and Agents Deployment | RAG and Agents Deployment Notebook | - |
-| 11 | 2 Dey | [Deploying AI Agents](https://docs.google.com/presentation/d/1JtVuv71_vr5_lhPbL04WIkbLdhtQz7uh3APog4eBjIA/edit?usp=sharing)  | - |
-| 10 | 7 Dey | Project Session | - | 404 :) |
-| 11 | 9 Dey | - | Software Skills Notebook |
-| 12 | 14 Dey | Practical Stuff | Practical Stuff Notebook |
-| 12 | 16 Dey | Guest Speakers from Inudstry | - |
-| 13 | 21 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
-| 16 | 13 Bahman | Final Exam |
+| 10 | 23 Azar | [RAG](https://docs.google.com/presentation/d/1RhNCQYUR_WS0fdbSpkAoXGY0SSE8kIuKEtNQA0e1GF4/edit?usp=sharing) | RAG Notebook(https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | Recording
+| 11 | 25 Azar | [Agents](https://docs.google.com/presentation/d/1RhNCQYUR_WS0fdbSpkAoXGY0SSE8kIuKEtNQA0e1GF4/edit?usp=sharing) | [Agents Notebook](https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | - |
+| 12 | 30 Dey | Guest Speakers from Inudstry | - |
+| 13 | 2 Dey | [AI Applications](https://docs.google.com/presentation/d/1JtVuv71_vr5_lhPbL04WIkbLdhtQz7uh3APog4eBjIA/edit?usp=sharing)  | - |
+| 14 | 7 Dey | [Practical Stuff](https://docs.google.com/presentation/d/1bIEcki-DdrbuBdt7A1FFyVm9JHacXAwJ8IaQfyb5OtU/edit?usp=sharing) | [Practical Stuff Notebook](https://colab.research.google.com/drive/1oYkbhYdiZBCE3sb5JbhNHCBjZN_wn_Hi) |
+| 15 | 9 Dey | Project Session | - | 404 :) |
+| 16 | 21 - 23 Dey | Final Projects Presentation | Final Projects Presentation |
+| 17 | 13 Bahman | Final Exam |
 
 
